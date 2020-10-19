@@ -6,7 +6,7 @@ goodluck
 
 ## Context
 
-Build a RESTful API that can create/read/update/delete user data from a persistence store.
+Build a RESTful API that can `create/read/update/delete` user data from a persistence store.
 
 
 ### User Model
